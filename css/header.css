@@ -7,6 +7,11 @@
   top: 0;
   z-index: 9;
 }
+
+.top-header a {
+  color: white;
+}
+
 .top-header .header__top,
 .top-header .header__bottom{
   display: flex;
@@ -25,6 +30,11 @@
 .top-header .header__column:last-child{
   text-align: right;
 }
+
+.top-header .header__bottom .header__column:first-child{
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .top-header .header__column:nth-child(2) {
   text-align: center;
 }
