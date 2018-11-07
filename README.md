@@ -2,6 +2,8 @@
 
 > Kakao Desktop App Clone
 
+![images](kakao-images/1.png)
+
 ## 개발 환경 설정
 
 #### 주 사용언어, 운영체제 
