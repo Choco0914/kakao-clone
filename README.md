@@ -2,7 +2,7 @@
 
 > Kakao Desktop App Clone
 
-![images](kakao-images/1.png){: width="50px" height="50px"}
+![images](kakao-images/1.png){: height="100px" width="100px"}
 
 ## 개발 환경 설정
 
