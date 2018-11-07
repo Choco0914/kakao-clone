@@ -12,12 +12,16 @@
 
 [Kakao-clone](https://choco0914.github.io/kakao-clone/) Click here!
 
-### Kakao-clone 을 만들때 참조한 사이트
+## Kakao-clone 을 만들때 참조한 사이트
 
 * [Nomard Coders](https://academy.nomadcoders.co/)
-- HTML
-* 회원가입, 로그인(google, github, kakao 게정으로 로그인가능), 회원탈퇴하기
-* 회원가입을 하면 회원가입 축하 메일이 발송됩니다 :)
+
+### HTML
+- [Meta tags that google understands](https://support.google.com/webmasters/answer/79812?hl=en)
+- [Official Meta Tags documentation](https://developer.mozilla.org/en/docs/Web/HTML/Element/meta)
+
+### CSS
+
 
 <img src="kakao-images/1.png" width="400px" height="400px">
 <img src="kakao-images/2.png" width="400px" height="400px">
