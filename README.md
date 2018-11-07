@@ -3,6 +3,12 @@
 > Kakao Desktop App Clone
 
 <img src="kakao-images/1.png" width="400px" height="400px">
+<img src="kakao-images/2.png" width="400px" height="400px">
+<img src="kakao-images/3.png" width="400px" height="400px">
+<img src="kakao-images/4.png" width="400px" height="400px">
+<img src="kakao-images/5.png" width="400px" height="400px">
+<img src="kakao-images/6.png" width="400px" height="400px">
+<img src="kakao-images/7.png" width="400px" height="400px">
 
 ## 개발 환경 설정
 
