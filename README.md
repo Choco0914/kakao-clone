@@ -12,9 +12,9 @@
 
 [Kakao-clone](https://choco0914.github.io/kakao-clone/) Click here!
 
-### Kakao-clone에서 의 기능
+### Kakao-clone 을 만들때 참조한 사이트
 
-* 공개글 혹은 비밀글 작성하기
-* 댓글 달기
+* [Nomard Coders](https://academy.nomadcoders.co/)
+- HTML
 * 회원가입, 로그인(google, github, kakao 게정으로 로그인가능), 회원탈퇴하기
 * 회원가입을 하면 회원가입 축하 메일이 발송됩니다 :)
