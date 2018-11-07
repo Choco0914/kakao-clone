@@ -5,8 +5,8 @@
 ## 개발 환경 설정
 
 #### 주 사용언어, 운영체제 
-  ### HTML, CSS
-  ### Windows, Ubuntu
+  ### - HTML, CSS -
+  ### - Windows, Ubuntu -
 #### 호스팅
   ### github를 이용해 무료로 호스팅
 
